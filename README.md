@@ -42,6 +42,10 @@ git clone [https://github.com/sudozeek/ZEEXmap](https://github.com/sudozeek/ZEEX
 cd ZEEXmap
 make
 ./ZEEXmap
+
+
+
+
 📱 2. Android (Termux)
 Bash
 pkg update && pkg upgrade
@@ -50,15 +54,19 @@ git clone [https://github.com/sudozeek/ZEEXmap](https://github.com/sudozeek/ZEEX
 cd ZEEXmap
 make
 ./ZEEXmap
+
+
+
+
 📖 How to Scan (Step-by-Step)
 Target: Enter the IP (e.g., 192.168.1.1) or URL (e.g., google.com).
 
 Mode: Select '1' for the Top 1000 Famous Ports.
 
-
-
-⚠️ Disclaimer: This tool is for educational purposes and authorized penetration testing only. Use it responsibly.
-
 Threads: Enter 100 for a fast, stable scan.
 
 Results: Check the TOOL and PAYLOAD columns to see your next attack vector!
+
+
+
+⚠️ Disclaimer: This tool is for educational purposes and authorized penetration testing only. Use it responsibly.
